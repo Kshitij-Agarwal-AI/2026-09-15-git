@@ -8,7 +8,3 @@ Third line
 
 ## What we will learn today
 -  Learn about merge conflict
-adjfh
-fdjhasdg
-dajghad
-adfgh
