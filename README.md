@@ -1,4 +1,4 @@
-# 2026-09-15-git
+# Tuesday, Sep 15: Git and git conflicts
 
 It's a beginning of the file
 
