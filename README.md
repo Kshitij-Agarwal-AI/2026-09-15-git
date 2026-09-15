@@ -7,4 +7,4 @@ Second line
 Third line
 
 ## What we will learn today
--  Learn about merge conflict
+-  Learn about merge conflict (Some more changes)
