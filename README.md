@@ -3,3 +3,5 @@
 It's a beginning of the file
 
 Second line
+
+Third line
